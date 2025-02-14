@@ -30,8 +30,4 @@ Example Menu:
 4. Exit
 Enter your choice:
 
-CONTRIBUTING:
-Feel free to improve or modify the code for learning purposes.
-
-LICENSE:
-This project is free to use and modify.
+Thank You!!!
